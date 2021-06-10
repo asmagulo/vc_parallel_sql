@@ -1,5 +1,1 @@
-Supplemental materials:
-
---GSQL queries
-    -- TPC-H
-    -- TPC-DS
+GSQL queries: TPC-H and TPC-DS
