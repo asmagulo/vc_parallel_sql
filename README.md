@@ -1,1 +1,5 @@
-# vc_parallel_sql
+Supplemental materials:
+
+--GSQL queries
+    -- TPC-H
+    -- TPC-DS
